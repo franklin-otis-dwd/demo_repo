@@ -5,7 +5,7 @@ With an excel sheet, it can be difficult or impossible to trace how data was man
 If you can read an R script, you can see how and why certain choices were made. It makes finding and fixing mistakes simpler. 
 ## Getting into R with the Tidyverse
 
-``` {r} 
+```r
 library(tidyverse)
 ```
 
