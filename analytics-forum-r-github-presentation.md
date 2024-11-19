@@ -116,9 +116,9 @@ mpg %>%
 
 ## Statistical Analysis
 
-R is at home doing statistical analysis.
+R is at home doing statistical analysis. For example, let's run a quick linear regression on mileage using a couple variables. 
 
-$ mpg\_{hwy} = \_0 + \_1 drv_f + \_3 drv_r + \_4 displ $
+$$mpg_{hwy} = \beta_0 + \beta_1 drv_f + \beta_3 drv_r + \beta_4 displ$$
 
 ``` r
 mpg_hwy_model <- lm(formula = hwy ~ drv + displ,
