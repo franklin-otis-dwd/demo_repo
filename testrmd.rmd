@@ -1,7 +1,0 @@
-# This is the header of the document
-
-``` {r} 
-library(tidyverse)
-```
-
-The easiest way to get into R is to use a series of packages called the `tidyverse`. 
