@@ -319,6 +319,8 @@ Github. If there are conflicts, say they both changed the same piece of
 the file, then Github can allow you to see what is in conflict and
 decide piecemeal what to do with that.
 
+You can also create a separate "branch" of the repository. This means you can try some experimental changes without worrying about it affecting anyone else using these files. 
+
 # Online Resources
 
 - [R for Data Science (2e)](https://r4ds.hadley.nz/)
