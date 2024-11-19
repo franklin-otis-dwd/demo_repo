@@ -1,18 +1,5 @@
 R and GitHub
 ================
-
-<style>
-  code{
-  font-family: Inconsolata, Consolas, monospace;
-}
-  body{
-  font-family: Calibri, Arial, sans-serif;
-}
-  blockquote{
-  font-size: 14px
-}
-</style>
-
 # Why/How to Use R
 
 ## Reproducibility, Sourcing
@@ -131,7 +118,7 @@ mpg %>%
 
 R is at home doing statistical analysis.
 
-\$ mpg\_{hwy} = \_0 + \_1 drv_f + \_3 drv_r + \_4 displ \$
+$ mpg\_{hwy} = \_0 + \_1 drv_f + \_3 drv_r + \_4 displ $
 
 ``` r
 mpg_hwy_model <- lm(formula = hwy ~ drv + displ,
