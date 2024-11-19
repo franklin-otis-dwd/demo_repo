@@ -320,6 +320,7 @@ the file, then Github can allow you to see what is in conflict and
 decide piecemeal what to do with that.
 
 You can also create a separate "branch" of the repository. This means you can try some experimental changes without worrying about it affecting anyone else using these files. 
+![](analytics-forum-r-github-presentation_files/github-branch.png)<!-- -->
 
 # Online Resources
 
