@@ -308,6 +308,9 @@ Imagine Word’s track changes, but for all files and multi-file projects.
 You can go back and undo specific changes and see who made what changes
 when.
 
+This is called the 'blame' features (admittedly kind of a negative framing), but it can be useful!
+![](analytics-forum-r-github-presentation_files/github-code-blame.png)<!-- -->
+
 ## Concurrent working
 
 If two people are working on the same document at the same time, these
@@ -343,5 +346,3 @@ decide piecemeal what to do with that.
 
   - Textbook on Shiny. Great introduction and resource for common ways
     to work with Shiny
-
-- 
