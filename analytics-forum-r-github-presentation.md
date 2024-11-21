@@ -20,10 +20,13 @@ popularity in the last decade or so. Personally, I have found this way
 of writing R to improve my ability to read and write understandable
 code.
 
-A couple of common features of R with `tidyverse` packages: - *“Tidy”
-data*: Datasets are assumed to be tidy, which is a way of structuring
+A couple of common features of R with `tidyverse` packages:
+
+- *“Tidy” data*: Datasets are assumed to be tidy, which is a way of structuring
 data such that each row represents one ‘observation’ and each column
-represents one variable about that observation. - *Piping and the pipe
+represents one variable about that observation.
+
+- *Piping and the pipe
 operator*: Piping is taking the output of one line of code and using the
 pipe operator (`%>%` or `|>`) to pass that as the input into the next
 expression. This can make writing code relatively compact and save some
