@@ -11,6 +11,8 @@ you can see how and why certain choices were made. It can make finding
 and fixing mistakes simpler (the pain I’ve felt debugging complex Excel
 formulas 😶‍🌫️)
 
+WOAH THESE ARE SOME EXPERIMENTAL CHANGES ! ! !
+
 ## Getting into R with the Tidyverse
 
 If you tried getting into R years ago you may have missed out on the
