@@ -35,7 +35,7 @@ You can also create a separate "branch" of the repository. This means you can tr
 
 GitHub also has features to allow you to keep track of issues you'd like to fix or features to add with the Issues tab. This can be good to more openly track these problems and document the history of fixing them. 
 
-You can also create documents like this or [wikis]([url](https://docs.github.com/en/communities/documenting-your-project-with-wikis)) as part of a repo to add additional explanation to how to use any of the code in the repo.
+You can also create documents like this type of markdown document or [wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis) as part of a repo to add additional explanation to how to use the project.
 
 ## Policies
 
