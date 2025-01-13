@@ -7,7 +7,7 @@ Git itself is a version control system. GitHub is a company (now owned by Micoro
 
 Git and GitHub has its own specific terminology. 
 
-- A _repo_ is a repository, think of it like a big project folder. 
+- A _repo_ is a repository, think of it like a big project folder. This is change.
 - A _commit_ is when you store a revised version of the file. 
 
 ## Version Control
