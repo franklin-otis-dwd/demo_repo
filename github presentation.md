@@ -39,8 +39,7 @@ You can also create documents like this type of markdown document or [wikis](htt
 
 ## Policies
 
-As it stands now, the GitHub website is the simplest way to interface with GitHub. If you get permission from IT, you can download Git and preferably some way of interacting with Git and GitHub. This can be 
+As it stands now, the GitHub website is the way to interface with GitHub. This means you'll have to manually download and upload to the GitHub site to make any changes. 
+GitHub is a cloud service. This means you **must be careful with protected information**. If you're working with code that interacts with protected data, be extremely vigilant not to add any of that data itself to the repo. 
 
-This means you'll have to manually download and upload any changes. 
-
-GitHub is a cloud service. This means you **must be careful with protected information**. If you're working with code that interacts with protected data, be very careful not to add any of that data itself to the repo. 
+As it stands, you need permission from IT to download Git and a GitHub desktop application to interface more seamlessly with GitHub. 
